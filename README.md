@@ -1,7 +1,7 @@
 # Google Search App
 
-![App Logo](![Screenshot (421)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/78e68c27-2ff9-4845-884b-e2d06e6ed7f1)
-)
+(![Screenshot (421)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/78e68c27-2ff9-4845-884b-e2d06e6ed7f1)
+
 
 ![App Logo](![Screenshot (419)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/c6472fcc-770c-41a6-bf48-76d5c16fb9d9)
 )
