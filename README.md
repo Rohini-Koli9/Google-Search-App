@@ -1,12 +1,10 @@
 # Google Search App
 
-![Screenshot (421)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/78e68c27-2ff9-4845-884b-e2d06e6ed7f1)
+![Screenshot (421)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/b787ff65-3bb7-4132-831e-e2e2d61d8b44)
 
+![Screenshot (419)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/d24edd36-b7d0-4b3d-8476-bb03cb6bc0e5)
 
-![Screenshot (419)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/c6472fcc-770c-41a6-bf48-76d5c16fb9d9)
-
-
-![Screenshot (420)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/932ca15d-3222-48dd-8393-af69cf578394)
+![Screenshot (420)](https://github.com/Rohini-Koli9/Google-Search-App/assets/111489763/fbd1c425-ba2a-435e-91c9-6bf94dac259d)
 
 
 The **Google Search App** is a simple web application built using React.js and Tailwind CSS. It functions as a basic Google search engine, utilizing an API to display search results in both the image and text sections. The app also incorporates a secret API key for its functionality.
